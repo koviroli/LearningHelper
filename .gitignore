@@ -31,5 +31,4 @@
 *~
 
 #build directories of QT Creator IDE
-build-streaks_opencv-Desktop_Qt_5_7_0_GCC_64bit-Debug/
-build-hair_remove_qt-Desktop-Debug
+build-LearningHelper-Desktop_Qt_5_7_0_GCC_64bit-Debug/
